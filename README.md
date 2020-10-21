@@ -1,7 +1,5 @@
 # Hollywood-Movie-recommedation-Engine-End-to-End
 
-
-
 ## Web app on herokuapp
 
 [Web App Link](https://movie-recommendor-engine.herokuapp.com/)
