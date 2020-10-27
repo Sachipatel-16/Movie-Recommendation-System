@@ -1,4 +1,4 @@
-# Hollywood-Movie-recommedation-Engine-End-to-End
+# hollywood-movie-recommendation
 
 ## Web app on herokuapp
 
